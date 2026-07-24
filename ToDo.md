@@ -1,8 +1,7 @@
-~~- Label visual pin diagram~~
-
-\- Make circuit on Wokwi
-
-\- Choose final design for LEDs
-
-~~- Draw FSM~~
+* ~~Label visual pin diagram~~
+* Make circuit on Wokwi
+* Choose final design for LEDs
+* ~~Draw FSM~~
+* Write code
+* Design housing
 
